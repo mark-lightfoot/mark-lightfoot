@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mark</h1>
 <h3 align="center">Kubernetes/DevOps/Platform Engineer</h3>
 
-- 🔭 I’m currently working at **CTS**
+<p align="center">🔭 I’m currently working at **CTS**</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
