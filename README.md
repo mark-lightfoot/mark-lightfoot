@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mark</h1>
-<h3 align="center">Kubernetes/DevOps/Platform Engineer</h3>
+<h1 align="center">Engineering Manager</h1>
+<h2 align="center">Specialist in Kubernetes/DevOps/Platform Engineering</h3>
 
-<p align="center">🔭 I’m currently working at <a href="https://prolific.co">Prolific</a></p>
+<p align="center">🔭 I’m currently working at <a href="https://prolific.com">Prolific</a></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
